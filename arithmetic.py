@@ -51,3 +51,6 @@ def mod(num1, num2):
     """Return the remainder of num / num2."""
 
     return num1 % num2
+
+#def get_reduced(operator, num1, num2):
+ #   reduce(lambda(x,y): x operator y, input_list[1:])
